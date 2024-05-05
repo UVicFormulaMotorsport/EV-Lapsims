@@ -1,1 +1,18 @@
-
+* text=auto
+*.mat binary
+*.mlx binary
+*.fig binary
+*.mlapp binary
+*.mdlp binary
+*.slx binary
+*.slxp binary
+*.sldd binary
+*.p binary
+*.mexa64 binary
+*.mexmaci64 binary
+*.mexmaca64 binary
+*.mexw64 binary
+*.xlsx binary
+*.jpg binary
+*.pdf binary
+*.docx binary
